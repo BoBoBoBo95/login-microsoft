@@ -18,7 +18,7 @@ router.get('/', function (req, res, next) {
     }
     else
     {
-        res.redirect('http://localhost:4000/auth/signin');
+        res.redirect('https://login-bs2f.onrender.com/auth/signin');
     }
 });
 

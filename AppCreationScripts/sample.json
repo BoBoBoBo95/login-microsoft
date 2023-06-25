@@ -12,8 +12,8 @@
       "Name": "ms-identity-node",
       "Kind": "WebApp",
       "Audience": "AzureADMyOrg",
-      "HomePage": "http://localhost:4000",
-      "ReplyUrls": "http://localhost:4000/auth/redirect",
+      "HomePage": "https://login-bs2f.onrender.com",
+      "ReplyUrls": "https://login-bs2f.onrender.com/auth/redirect",
       "PasswordCredentials": "Auto"
     }
   ],

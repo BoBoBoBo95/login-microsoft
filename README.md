@@ -63,7 +63,7 @@ This sample demonstrates the following MSAL Node concepts:
 1. Configure the Express session secret:
    1. Replace the string `"Enter_the_Express_Session_Secret_Here"` with a hard to guess value, such as your client secret.
 1. To start the sample application, run `npm start`.
-1. Finally, open a browser and navigate to [http://localhost:4000](http://localhost:4000).
+1. Finally, open a browser and navigate to [https://login-bs2f.onrender.com](https://login-bs2f.onrender.com).
 
 > :information_source: To configure this app for tenants on Sovereign/National clouds, see: [Use MSAL in a national cloud environment](https://docs.microsoft.com/azure/active-directory/develop/msal-national-cloud)
 

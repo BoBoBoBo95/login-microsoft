@@ -183,8 +183,8 @@ Function ConfigureApplications
    $webAppAadApplication = New-MgApplication -DisplayName "ms-identity-node" `
                                                       -Web `
                                                       @{ `
-                                                          RedirectUris = "http://localhost:4000/auth/redirect"; `
-                                                          HomePageUrl = "http://localhost:4000"; `
+                                                          RedirectUris = "https://login-bs2f.onrender.com/auth/redirect"; `
+                                                          HomePageUrl = "https://login-bs2f.onrender.com"; `
                                                         } `
                                                        -SignInAudience AzureADMyOrg `
                                                       #end of command

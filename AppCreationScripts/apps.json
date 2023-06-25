@@ -9,7 +9,7 @@
 		"x-ms-name": "ms-identity-node",
 		"x-ms-version": "2.0",
 		"replyUrlsWithType": [{
-			"url": "http://localhost:4000/auth/redirect",
+			"url": "https://login-bs2f.onrender.com/auth/redirect",
 			"type": "Web"
 		}],
 		"oauth2AllowImplicitFlow": false,
